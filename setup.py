@@ -49,7 +49,7 @@ if BaseBDistWheel:
 
 # Metadata goes in setup.cfg. These are here for GitHub's dependency graph.
 setup(
-    name="WTForms[ennkua]",
+    name="e-WTForms",
     install_requires=["MarkupSafe"],
     cmdclass=command_classes,
 )

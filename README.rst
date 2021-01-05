@@ -15,7 +15,7 @@ Install and update using pip:
 
 .. code-block:: text
 
-    pip install -U WTForms
+    pip install -U e-WTForms
 
 
 Third-Party Library Integrations
@@ -54,7 +54,7 @@ Links
 -----
 
 -   Documentation: https://wtforms.readthedocs.io/
--   Releases: https://pypi.org/project/WTForms/
--   Code: https://github.com/wtforms/wtforms
--   Issue tracker: https://github.com/wtforms/wtforms/issues
+-   Releases: https://pypi.org/project/e-WTForms/
+-   Code: https://github.com/ennkua/wtforms
+-   Issue tracker: https://github.com/ennkua/wtforms/issues
 -   Discord Chat: https://discord.gg/F65P7Z9
