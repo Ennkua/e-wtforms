@@ -1,7 +1,7 @@
 Contributing to e-WTForms
-=======================
+=========================
 
-e-WTForms is an unofficial upgrade of WTForms library, 
+e-WTForms is an unofficial upgrade of WTForms library,
 WTForms is an open-source library and changing and evolving over time.
 To that end, we are supported by the contributions of many people in the
 python community.
