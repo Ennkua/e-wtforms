@@ -8,7 +8,7 @@ version of this document can always be found on the `WTForms Website`_.
 
 
 What is the difference between WTForms and e-WTForms?
---------------------------------------
+-----------------------------------------------------
 
 e-WTForms is an unofficial upgrade of WTForms with more validators.
 
