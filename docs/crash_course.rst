@@ -23,11 +23,11 @@ templating engine you like, as well.
 Download / Installation
 -----------------------
 
-WTForms is available through `PyPI`_. Install it using pip::
+e-WTForms edition is available through `PyPI`_. Install it using pip::
 
-    pip install WTForms
+    pip install e-WTForms
 
-.. _PyPI: https://pypi.org/project/WTForms/
+.. _PyPI: https://pypi.org/project/e-WTForms/
 
 
 Key Concepts
@@ -383,7 +383,7 @@ Next Steps
 ----------
 
 The crash course has just skimmed the surface on how you can begin using
-WTForms to handle form input and validation in your application. For more
+e-WTForms to handle form input and validation in your application. For more
 information, you'll want to check the following:
 
  - The :doc:`WTForms documentation <index>` has API documentation for the entire library.

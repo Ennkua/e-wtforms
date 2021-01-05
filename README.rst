@@ -1,3 +1,9 @@
+e-WTForms
+=========
+
+e-WTForms is an unofficial upgrade of WTForms library with more functionality.
+
+
 WTForms
 =======
 
@@ -18,43 +24,10 @@ Install and update using pip:
     pip install -U e-WTForms
 
 
-Third-Party Library Integrations
---------------------------------
-
-WTForms is designed to work with any web framework and template engine.
-There are a number of community-provided libraries that make integrating
-with frameworks even better.
-
--   `Flask-WTF`_ integrates with the Flask framework. It can
-    automatically load data from the request, uses Flask-Babel to
-    translate based on user-selected locale, provides full-application
-    CSRF, and more.
--   `WTForms-Alchemy`_ provides rich support for generating forms from
-    SQLAlchemy models, including an expanded set of fields and
-    validators.
--   `WTForms-SQLAlchemy`_ provides ORM-backed fields and form generation
-    from SQLAlchemy models.
--   `WTForms-AppEngine`_ provides ORM-backed fields and form generation
-    from AppEnding db/ndb schema
--   `WTForms-Django`_ provides ORM-backed fields and form generation
-    from Django models, as well as integration with Django's I18N
-    support.
--   `Starlette-WTF`_ integrates with Starlette and the FastAPI
-    framework, based on the features of Flask-WTF.
-
-.. _Flask-WTF: https://flask-wtf.readthedocs.io/
-.. _WTForms-Alchemy: https://wtforms-alchemy.readthedocs.io/
-.. _WTForms-SQLAlchemy: https://github.com/wtforms/wtforms-sqlalchemy
-.. _WTForms-AppEngine: https://github.com/wtforms/wtforms-appengine
-.. _WTForms-Django: https://github.com/wtforms/wtforms-django
-.. _Starlette-WTF: https://github.com/muicss/starlette-wtf
-
-
 Links
 -----
 
 -   Documentation: https://wtforms.readthedocs.io/
 -   Releases: https://pypi.org/project/e-WTForms/
--   Code: https://github.com/ennkua/wtforms
--   Issue tracker: https://github.com/ennkua/wtforms/issues
--   Discord Chat: https://discord.gg/F65P7Z9
+-   Code: https://github.com/ennkua/e-wtforms
+-   Issue tracker: https://github.com/ennkua/e-wtforms/issues

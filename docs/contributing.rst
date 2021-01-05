@@ -1,6 +1,7 @@
-Contributing to WTForms
+Contributing to e-WTForms
 =======================
 
+e-WTForms is an unofficial upgrade of WTForms library, 
 WTForms is an open-source library and changing and evolving over time.
 To that end, we are supported by the contributions of many people in the
 python community.
@@ -9,10 +10,10 @@ python community.
 How to Contribute
 -----------------
 
-WTForms is now on `GitHub`_, so all contributions should be either associated
+e-WTForms is now on `GitHub`_, so all contributions should be either associated
 with a pull request or with a ticket & patch.
 
-.. _GitHub: https://github.com/wtforms/wtforms
+.. _GitHub: https://github.com/ennkua/e-wtforms
 
 
 Contribution Guidelines

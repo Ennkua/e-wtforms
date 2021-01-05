@@ -73,6 +73,9 @@ Built-in validators
 
 .. autoclass:: wtforms.validators.NoneOf
 
+ e-WTForms edition
+------------------
+
 .. autoclass:: wtforms.validators.DigitRequired
 
     This validator ensure that the incoming data must contain a specified minimum number of digit.

@@ -4,8 +4,13 @@ FAQ
 This contains the most commonly asked questions about WTForms. The most current
 version of this document can always be found on the `WTForms Website`_.
 
-.. _WTForms Website: https://wtforms.readthedocs.io/
+.. _WTForms Website: https://e-wtforms.readthedocs.io/
 
+
+What is the difference between WTForms and e-WTForms?
+--------------------------------------
+
+e-WTForms is an unofficial upgrade of WTForms with more validators.
 
 Does WTForms work with [library here]?
 --------------------------------------

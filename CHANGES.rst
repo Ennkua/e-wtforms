@@ -1,9 +1,13 @@
 .. currentmodule:: wtforms
 
-Version 3.0.0
--------------
 
-Unreleased
+Version 3.0.0a1 e-WTForms edition
+---------------------------------
+
+Released 2021-01-05
+
+-   Added ``DigitRequired``, ``UppercaseRequired``, ``LowercaseRequired``
+    and ``SymbolRequired`` validators.
 
 Version 3.0.0a1
 ---------------

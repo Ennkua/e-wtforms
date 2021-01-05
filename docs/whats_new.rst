@@ -1,11 +1,15 @@
-What's New in WTForms 3
+What's New in e-WTForms
 =======================
 
 New Features
 ------------
 
-WTForms 3 is something something TODO
+e-WTForms has 4 new validators:
 
+- ``DigitRequired`` enures that that encoming data contain digits.
+- ``UppercaseREquired`` ensures that encoming data contain uppercase.
+- ``LowercaseRequired`` ensures that encoming data contain lowercase.
+- ``SymbolRequired`` ensures that encoming data contain symbols.
 
 Past Major Releases
 -------------------
